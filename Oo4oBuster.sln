@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oo4oBuster.Test", "Oo4oBuster.Test\Oo4oBuster.Test.vbproj", "{5041EBC8-B290-4A61-8C03-AC55AFC5464F}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Oo4oBuster", "Oo4oBuster\Oo4oBuster.vbproj", "{45119B17-E60B-4E7C-A6CC-999F981DF0F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0A3CB546-2475-464B-B635-619B65C7AE64}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5041EBC8-B290-4A61-8C03-AC55AFC5464F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5041EBC8-B290-4A61-8C03-AC55AFC5464F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5041EBC8-B290-4A61-8C03-AC55AFC5464F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5041EBC8-B290-4A61-8C03-AC55AFC5464F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45119B17-E60B-4E7C-A6CC-999F981DF0F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45119B17-E60B-4E7C-A6CC-999F981DF0F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45119B17-E60B-4E7C-A6CC-999F981DF0F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45119B17-E60B-4E7C-A6CC-999F981DF0F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

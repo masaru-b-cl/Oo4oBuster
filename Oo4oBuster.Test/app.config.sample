@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  app.configにリネームして、必要な構成情報に変更すること。
+-->
+<configuration>
+	<appSettings>
+		<add key="dbname" value="tns-name" />
+		<add key="userid" value="user-id" />
+		<add key="password" value="password" />
+	</appSettings>
+</configuration>
